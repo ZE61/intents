@@ -670,3 +670,7 @@ entities:
     attributes:
       device_class: wind_speed
       unit_of_measurement: "km/h"
+
+  - name: "Trader Joe[']s"
+    id: "todo.trader_joes"
+    state: ""
